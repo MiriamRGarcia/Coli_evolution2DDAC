@@ -6,7 +6,7 @@ close all
 %%%=========================================================================
 
 %% load data
-load data_vial2
+load data_vial1
 
 
 %% remove last half day (probably with biofilms)
